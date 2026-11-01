@@ -128,6 +128,8 @@
     // every unconfigured store's <title>, which is how a fresh install came to
     // announce itself as "Toko Anda — Belum Dikonfigurasi".
     "PUBLIC_SITE_TAGLINE": "",
+    // Brand sent to Google and Meta for a product with none of its own.
+    "PUBLIC_DEFAULT_BRAND": "Baven",
     "PUBLIC_ADMIN_NAME": "Baven Shop Admin",
     "PUBLIC_EMBED_ALLOWED_ORIGINS": "https://baven.shop",
 
